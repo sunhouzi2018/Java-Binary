@@ -21,6 +21,7 @@ public class hello {
             shi += Integer.parseInt(String.valueOf(str.charAt(i))) * bei;
             bei *= 2;
         }
+        
         System.out.println("十进制数字为：" + shi);
     }
 }
